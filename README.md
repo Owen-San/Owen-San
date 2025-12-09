@@ -7,7 +7,7 @@ Frontend Software Engineer & UI/UX-Driven Web Developer
 I’m a Frontend Software Engineer who enjoys building responsive, user friendly web experiences. I work with React, TypeScript, Next.js, and Tailwind, and I focus on clean UI, accessibility, and performance. I’m currently growing my portfolio, working with clients, and preparing for my first full time frontend role. Always learning and improving.
 
 * 🌍  I'm based in New Jersey
-* 🖥️  See my portfolio at [Owen's Portfolio](https://owen-frontend-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [Owen's Portfolio](https://owensan.dev)
 * ✉️  You can contact me at [owensan@pm.me](mailto:owensan@pm.me)
 * 🧠  I'm currently learning Advanced React/Next.js patterns, API routing, state management, and building scalable full-stack features with TypeScript and modern frontend tooling.
 * 👥  I'm looking to collaborate on Frontend projects, design-to-code builds, Next.js apps, UI components, landing pages, and full-stack features involving clean APIs, authentication, dashboards, or modern UX flows.
