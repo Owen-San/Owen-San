@@ -8,7 +8,7 @@ I’m a Frontend Software Engineer who enjoys building responsive, user friendly
 
 * 🌍  I'm based in New Jersey
 * 🖥️  See my portfolio at [Owen's Portfolio](https://owen-frontend-portfolio.vercel.app/)
-* ✉️  You can contact me at [ptvowen@gmail.com](mailto:ptvowen@gmail.com)
+* ✉️  You can contact me at [owensan@pm.me](mailto:owensan@pm.me)
 * 🧠  I'm currently learning Advanced React/Next.js patterns, API routing, state management, and building scalable full-stack features with TypeScript and modern frontend tooling.
 * 👥  I'm looking to collaborate on Frontend projects, design-to-code builds, Next.js apps, UI components, landing pages, and full-stack features involving clean APIs, authentication, dashboards, or modern UX flows.
 * 💬  Ask me about I’m all about building fast, clean, and polished interfaces backed by solid logic and smooth user experiences. I'm also working on learning C#!
