@@ -9,6 +9,7 @@ I’m a Frontend Software Engineer who enjoys building responsive, user friendly
 * 🌍  I'm based in New Jersey
 * 🖥️  See my portfolio at [Owen's Portfolio](https://owensan.dev)
 * ✉️  You can contact me at [owensan@pm.me](mailto:owensan@pm.me)
+* 📄 View my resume → [Owen's Resume](https://owensan.dev/assets/Owen's%20Resume.pdf)
 * 🧠  Currently learning advanced React and Next.js patterns, API routes, state management, and building scalable full-stack features with TypeScript and modern frontend tools.
 * 👥  Open to collaborating on frontend applications, design-to-code builds, Next.js projects, UI component systems, landing pages, and full-stack features involving authentication, clean APIs, and modern user flows.
 * 💬  Ask me about building fast, clean, and polished interfaces with strong architecture and smooth user experiences. I’m also learning C# to broaden my engineering skill set and explore game development.
